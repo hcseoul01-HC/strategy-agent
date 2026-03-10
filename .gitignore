@@ -1,0 +1,8 @@
+.env
+__pycache__/
+venv/
+*.pyc
+documents/
+agent_memory.json
+strategy_report.txt
+*.csv
